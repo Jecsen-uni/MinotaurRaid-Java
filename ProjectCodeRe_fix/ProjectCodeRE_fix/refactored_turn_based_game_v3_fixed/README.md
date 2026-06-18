@@ -1,4 +1,4 @@
-# Turn-Based Game Refactor v3 Fixed
+# Turn-Based Game Refactoe
 
 ## Cara menjalankan
 
